@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 
-"""
+"""           
 Calculadora 1: prototipo basico
 
-Descripción extendida del programa
+Este es un ejemplo de demostración del uso de la plantilla para el curso de Introducción a la progración 
 
 Autor: Danna Fernanda Motta Heranadez <dannamotta1306@gmail.com>
-Fecha: 2025-02-01
+Fecha: 2025-03-13
 """
 
 # **** En esta región puede importar los módulos necesarios para su programa
@@ -19,10 +19,10 @@ def run():
     # **** Poner el código ejecutable de su ejercicio aquí
     
 print("Escoge una operación: ")
-print("A. Suma")
-print("B. Resta")
-print("C. Multiplicación") 
-print("D. División")
+print("A. Suma ")
+print("B. Resta ")
+print("C. Multiplicación ") 
+print("D. División ")
 
 escogerOperacion = input("Bienvenida, selecciona tu operación entre A/B/C/D: ")
 
